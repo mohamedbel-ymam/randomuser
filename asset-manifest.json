@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohamedbel-ymam/randomuser/static/css/main.2716d467.css",
+    "main.js": "/mohamedbel-ymam/randomuser/static/js/main.3b2235d8.js",
+    "static/js/787.086fdd10.chunk.js": "/mohamedbel-ymam/randomuser/static/js/787.086fdd10.chunk.js",
+    "index.html": "/mohamedbel-ymam/randomuser/index.html",
+    "main.2716d467.css.map": "/mohamedbel-ymam/randomuser/static/css/main.2716d467.css.map",
+    "main.3b2235d8.js.map": "/mohamedbel-ymam/randomuser/static/js/main.3b2235d8.js.map",
+    "787.086fdd10.chunk.js.map": "/mohamedbel-ymam/randomuser/static/js/787.086fdd10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2716d467.css",
+    "static/js/main.3b2235d8.js"
+  ]
+}
